@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate Software and Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2Fe4%2F96%2Fb9e4960c1476c78043d499d975f86cdb.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.co.uk%2Fpin%2F380765343496779495%2F&tbnid=cqHdv6fw8Pf5GM&vet=12ahUKEwjW8Piv3IX2AhV3ktgFHTILAPQQMygGegUIARD7AQ..i&docid=BZSm87c_WmpPMM&w=800&h=600&q=animated%20coding%20gif&hl=mr&ved=2ahUKEwjW8Piv3IX2AhV3ktgFHTILAPQQMygGegUIARD7AQ.gif">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
