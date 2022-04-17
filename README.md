@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-- 🔭 I’m currently working on **Intern at Heriustic Technopark ML**
+- 🔭 I’m currently working on ** Final Year Project **
 
-- 🌱 I’m currently learning **DSA and Android Development**
+- 🌱 I’m currently learning ** Web Development**
 
 - 💬 Ask me about **Coding / DSA / Software Development**
 
