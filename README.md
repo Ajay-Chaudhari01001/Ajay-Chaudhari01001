@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate about Full Stack Developer from India India</h3>
+<h3 align="center">A passionate about Full Stack Developer from India </h3>
 
 ![gihub](https://user-images.githubusercontent.com/55138445/177673997-48844d0d-7369-45c7-a973-6272e39503e9.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-- 🔭 I’m currently working on **frotends projects**
+- 🔭 I’m currently working on **fronted projects**
 
 - 🌱 I’m currently learning **React js**
 
