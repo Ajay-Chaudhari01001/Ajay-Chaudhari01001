@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate about Full Stack Developer from India India</h3>
 
-<img alt="coding" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
-
-![github](https://user-images.githubusercontent.com/55138445/177672710-8878dedf-93cd-40e0-bdaf-f47cf344696c.gif)
+<img alt="coding" height="300" width="300" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
