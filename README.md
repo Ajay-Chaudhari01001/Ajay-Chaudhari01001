@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate about Full Stack Developer from India India</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\HP\Downloads\github.gif" >
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
