@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate about Full Stack Developer from India India</h3>
-<img align="right" alt="coding" width="400" src="[https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcodersboot.com%2Fwp-content%2Fuploads%2F2022%2F01%2F39998-web-development.gif&imgrefurl=https%3A%2F%2Fcodersboot.com%2Fcourses%2Fblock-coding-intermediate-group-learning-13%2F&tbnid=cRK7TYXqCBdGoM&vet=12ahUKEwj52-6Q0-X4AhW-_jgGHbLvB8QQMyhaegUIARCVAQ..i&docid=7xNZmL9Aq1OjmM&w=640&h=640&itg=1&q=coding%20gif&hl=mr&ved=2ahUKEwj52-6Q0-X4AhW-_jgGHbLvB8QQMyhaegUIARCVAQ)" >
+
+![github](https://user-images.githubusercontent.com/55138445/177672710-8878dedf-93cd-40e0-bdaf-f47cf344696c.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
