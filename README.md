@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 🤝 I’m looking for help with **backend and fronted development and DSA**
+- 🤝 I’m looking for **Open Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay-Chaudhari01001](https://github.com/Ajay-Chaudhari01001)
 
