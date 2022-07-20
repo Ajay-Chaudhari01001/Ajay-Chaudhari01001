@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay-Chaudhari01001](https://github.com/Ajay-Chaudhari01001)
 
-- 💬 Ask me about **backend and fronted development and DSA**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **https://wa.me/7499866920**
 
