@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 I’m currently working on **30Days Of JS Projects**
 
 - 🌱 I’m currently learning **React js**
 
