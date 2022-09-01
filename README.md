@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **Instagram: @ajay_chaudhari_19**
+- 📫 How to reach me **ajaychaudhari6768@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😉😊**
 
