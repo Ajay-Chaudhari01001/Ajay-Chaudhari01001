@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ajay-Chaudhari01001](https://github.com/Ajay-Chaudhari01001)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ajaychaudhari6768@gmail.com**
