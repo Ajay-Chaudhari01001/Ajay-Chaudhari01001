@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passsionate Full Stack Developer From
+<h3 align="center">A passionate Full Stack Developer From
 🇮🇳 </h3>
 
 ![gihub](https://user-images.githubusercontent.com/55138445/177673997-48844d0d-7369-45c7-a973-6272e39503e9.gif)
