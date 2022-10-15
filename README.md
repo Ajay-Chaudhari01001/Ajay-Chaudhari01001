@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-- 🔭 I’m currently working on **My Personal Portfolio Website**
+- 🔭 I’m currently working on **Fronted Projects**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **DSA with Java**
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **@Insta: ajay_chaudhari_19**
+- 📫 How to reach me **[Portfolio](https://ajaychaudhari2212.netlify.app)**
 
 - ⚡ Fun fact **I think I am funny 😉😊**
 
