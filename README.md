@@ -5,8 +5,6 @@
 ![gihub](https://user-images.githubusercontent.com/55138445/177673997-48844d0d-7369-45c7-a973-6272e39503e9.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychaudhari01001" /> </p>
-
 - 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **DSA with Java**
@@ -35,19 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-chaudhari01001&show_icons=true&locale=en" alt="ajay-chaudhari01001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-chaudhari01001&" alt="ajay-chaudhari01001" /></p>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaychaudhari01001" alt="ajaychaudhari01001" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaychaudhari01001&show_icons=true&locale=en&layout=compact" alt="ajaychaudhari01001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychaudhari01001&show_icons=true&locale=en" alt="ajaychaudhari01001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychaudhari01001&" alt="ajaychaudhari01001" /></p>
 
