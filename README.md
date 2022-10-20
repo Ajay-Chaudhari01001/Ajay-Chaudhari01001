@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **[Portfolio](https://ajaychaudhari2212.netlify.app)**
+- 📫 How to reach me **[Portfolio](https://ajaychaudhari.me)**
 
 - ⚡ Fun fact **I think I am funny 😉😊**
 
