@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-- 🔭 I’m currently working on **Rapido Clone**
+<!-- - 🔭 I’m currently working on **** -->
 
 - 🌱 I’m currently learning **DSA with Java**
 
