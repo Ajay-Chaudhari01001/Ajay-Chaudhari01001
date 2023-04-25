@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **DSA with Java**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
