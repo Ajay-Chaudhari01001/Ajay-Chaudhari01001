@@ -1,3 +1,4 @@
+![j](https://github.com/Ajay-Chaudhari01001/Ajay-Chaudhari01001/assets/55138445/c5341d03-cbf4-4288-93e6-1c92afc715a6)
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate Full Stack Developer From
 🇮🇳 </h3>
