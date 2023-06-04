@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Full Stack Developer From
 🇮🇳 </h3>
 
-### Glad to see here 😍💙
+<h3 align="center">
+ Glad to see here 😍💙
+ </h3>
 ![gihub](https://user-images.githubusercontent.com/55138445/177673997-48844d0d-7369-45c7-a973-6272e39503e9.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
