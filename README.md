@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-chaudhari01001&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-chaudhari01001" /> </p>
 
-## 💫 About Me:
+# 💫 About Me:
 
 - 🔭 I’m currently working on **Frontend Projects** <br><br>- 🌱 I’m currently learning **React**<br><br>- 🤝 I’m looking for help with **Open Source Contribution**<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **[Portfolio](https://ajaychaudhari.me)**<br><br>- ⚡ Fun fact **I think I am funny 😉😊**
 
