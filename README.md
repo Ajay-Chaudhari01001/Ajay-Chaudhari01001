@@ -20,6 +20,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+
+ ## Hacktoberfest 2022
+ <p align="center">
+  <img src="https://github.com/Ajay-Chaudhari01001/Ajay-Chaudhari01001/assets/55138445/8ca5cbbd-2de5-4535-ac8d-5aaa12887493" width="200" alt="unnamed1"></img>
+  <img src="https://github.com/Ajay-Chaudhari01001/Ajay-Chaudhari01001/assets/55138445/4cff99b7-6b0c-4449-b33d-aec2f258b475" width="200" alt="unname2"></img>
+  <img src="https://github.com/Ajay-Chaudhari01001/Ajay-Chaudhari01001/assets/55138445/f17b5abf-24ca-4582-b54a-7d425e55997b" width="200" alt="unnamed3"></img>
+ </p>
+I hope the experience has motivated you to continue contributing to open source projects beyond Hacktoberfest. It's a journey of continuous learning and growth, and the open source community is always welcoming to new contributors like you. Keep up the fantastic work and happy coding in your future open source endeavors! 🌟👩‍💻👨‍💻
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ajay-Chaudhari01001&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Chaudhari01001&theme=flag-india&hide_border=false)<br/>
