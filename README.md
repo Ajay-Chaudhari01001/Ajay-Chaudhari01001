@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Frontend Projects** <br><br>- 🌱 I’m currently learning **Node JS**<br><br>- 🤝 I’m looking for help with **Open Source Contribution**<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **[Portfolio](https://ajaychaudhari.me)**<br><br>- ⚡ Fun fact **I think I am funny 😉😊**
+- 🔭 I’m currently working on **Frontend Projects** <br><br>- 🌱 I’m currently learning **Node JS**<br><br>- 🤝 I’m looking for help with **Open Source Contribution**<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **[Portfolio](https://ajaychaudhari22.netlify.app/)**<br><br>- ⚡ Fun fact **I think I am funny 😉😊**
 
 
 # 💻 Tech Stack:
